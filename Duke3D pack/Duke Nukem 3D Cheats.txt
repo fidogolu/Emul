@@ -1,0 +1,22 @@
+DNKROZ     God Mode Toggle
+DNCORNHOLIO     God Mode Toggle 
+DNSTUFF     All weapons, ammo, and key cards 
+DNWEAPONS     All weapons and ammo 
+DNITEMS     All items and key cards
+ DNINVENTORY     All items 
+DNKEYS     All key cards 
+DNA     Takes power from monsters 
+DNCLIP     No Clipping Mode 
+DNSHOWMAP     Full Map 
+DNHYPER     Steroids 
+DNUNLOCK     Opens all doors 
+DNSKILL#     Changes skill to level # 
+DNVIEW     Chase plane view 
+DNMONSTERS     Monsters will disappear as soon as they see Duke 
+DNCASHMAN     Makes Duke throw money when you press the space bar 
+DNRATE     Displays the frame rate 
+DNCOORDS     Displays current coordinates 
+DNDEBUG     Displays debugging information 
+DNTODD     Displays message: Register Cosmo Today 
+DNBETA     Displays message: Pirates Suck 
+DNALLEN     Displays message: Buy Major Stryker 
